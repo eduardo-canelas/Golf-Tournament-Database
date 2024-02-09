@@ -1,2 +1,2 @@
 # Golf-Tournament-Database
-This project is a Golf Tournament Database implemented in C programming language. It provides a console-based interface allowing users to manage player information efficiently. 
+Designed and implemented a Golf Tournament Database system in C programming language. This project demonstrates my proficiency in software development and database management. In this project, I applied fundamental programming concepts, including file handling, data structures, and modular programming, to create a robust and user-friendly application.
